@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T20:31:16.990Z" agent="5.0 (X11)" etag="qld4uJGRwsDgv3BlIAwk" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-02T20:31:26.360Z" agent="5.0 (X11)" etag="b7AmABzTbmZl8nTSBTXb" version="15.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1294" dy="1649" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="827" y="340" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="c9Sj87t0kXA1qzdXFHOX-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;i&gt;&lt;b&gt;ControllerInterface&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &lt;i&gt;changeDetected&lt;/i&gt;(SmartThing): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="60" width="210" height="100" as="geometry" />
+          <mxGeometry x="630" y="-60" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="c9Sj87t0kXA1qzdXFHOX-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;i&gt;&lt;b&gt;OnOffAble&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &lt;i&gt;turnOff&lt;/i&gt;(): void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &lt;i&gt;turnOn&lt;/i&gt;(); void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &lt;i&gt;IsOn&lt;/i&gt;(): boolean&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="90" width="190" height="120" as="geometry" />
