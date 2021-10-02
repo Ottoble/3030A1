@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T20:28:48.892Z" agent="5.0 (X11)" etag="8JBNqPS8DqniqLFCNis7" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-02T20:31:16.990Z" agent="5.0 (X11)" etag="qld4uJGRwsDgv3BlIAwk" version="15.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1012" dy="480" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1294" dy="1649" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -102,6 +102,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="310" as="sourcePoint" />
             <mxPoint x="780" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9Sj87t0kXA1qzdXFHOX-45" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;BooleanMeasurementInstrument&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp; &lt;i&gt;getStatus&lt;/i&gt;(): boolean&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="-50" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c9Sj87t0kXA1qzdXFHOX-46" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;sketch=0;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="c9Sj87t0kXA1qzdXFHOX-45" target="c9Sj87t0kXA1qzdXFHOX-0">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="70" as="sourcePoint" />
+            <mxPoint x="650" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
